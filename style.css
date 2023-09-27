@@ -1,0 +1,308 @@
+#lastTrade::first-line {
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: fixed !important;
+} 
+:root{backdrop-filter: none !important; backface-visibility:hidden !important; webkit-backface-visibility: hidden !important; transform-origin: revert !important}
+
+@media all {backface-visibility: hidden !important;}
+@font-face all{backface-visibility:hidden !important;}
+*::selection{backface-visibility: hidden !important; user-select: none !important;}
+@page all{backface-visibility: hidden !important;}
+@client all {backface-visibility: hidden !important;}
+*{backface-visibility: hidden !important; transform: none !important; webkit-transform: none !important; transform-origin: revert !important; backdrop-filter:none !important; webkit-backface-visibility: none !important;}
+@screen all{backface-visibility: hidden !important; webkit-backface-visibility: hidden !important;}
+*::first-line{backdrop-filter: none !important; backface-visibility:hidden !important; webkit-backface-visibility: hidden !important;}
+#mainTable::first-line{position:fixed !important; transform: none !important; transform-origin: none !important; display: inline-block !important; }
+
+#demobody::first-line{position:fixed !important; transform: none !important; transform-origin: none !important; display: inline-block !important; }
+
+#demo2::first-line{position:fixed !important; transform: none !important; transform-origin: none !important; display: inline-block !important; }
+
+#demo2_4::first-line{position:fixed !important; transform: none !important; transform-origin: none !important; display: inline-block !important; }
+#trades::first-line{position:fixed !important; transform: none !important; transform-origin: none !important; display: inline-block !important; }
+
+#lastTrade::first-letter {
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+
+#ticker::first-line {
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+
+#body::first-line {
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+
+#html::first-line {
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+
+#LastUpdated::first-line {
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+
+#clock::first-line {
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+
+
+#uodatediv::first-line {
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+
+#optiondiv::first-line {
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+
+.socketio::first-line {
+    backface-visibility: hidden !important;
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+
+#mainTable > tbody > tr(:nth-child(2))::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+#mainTable > tbody::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+#tradeBox::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+#traderows::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+#centChange2::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+#centval:first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+(*::marker)::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+g::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+text::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+svg::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+canvas::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+
+
+.depthVol::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+.depthType::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+.depthPrice::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+#orders2::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+
+#buy::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+
+#buy2::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+
+#sell2::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+
+#sell::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+#selltext::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+#buytext::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+#bought::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+
+#bought2::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+
+#low2::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+#low::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+
+#high2::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+#high::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+
+
+#lowtext::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+#hightext::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+#democon::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+#curdiv::first-line{
+    position: fixed !important;
+    transform: none !important;
+    transform-origin: none !important;
+    display: inline-block !important;
+}
+
+
+#vol0{view-transition-name: --vol0 !important;}
+#coinbaseUSDTicker{transition-timeline: --vol0 !important;animation-timeline: --vol0 !important;}
+
+span#bitstampUSDTicker {
+    transition-timelime: --vol0 !important;animation-timeline: --vol0 !important;
+}
+
+span#BitfUSDTicker {
+    transition-timelime: --vol0 !important;animation-timeline: --vol0 !important;
+}
+
+span#CoinUSDBCHTicker {
+    transition-timelime: --vol0 !important;animation-timeline: --vol0 !important;
+}
+
+#centval{transition-timeline: --vol0 !important;animation-timeline: --vol0 !important;}
+#centsign {transition-timelime: --vol0 !important; animation-timeline: --vol0 !important;}
+#centval2{transition-timeline: --vol0 !important;animation-timeline: --vol0 !important;}
+#centsign2{transition-timelime: --vol0 !important; animation-timeline: --vol0 !important;}
